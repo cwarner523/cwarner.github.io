@@ -1,8 +1,12 @@
 # About Me Page 
 
-![Image of website](https://cwarner523.github.com/images/Screen Shot 2017-07-03 at 9.37.40 PM.png)
+![Image of website](cwarner.github.io/images/Screen Shot 2017-07-03 at 9.37.40 PM.png)
 
 ### Technologies Used
+* HTML
+* CSS
+* Google Fonts
+* Illustrator
 
 ### Problems/Future Improvments
 * Add a section with images of the websites that I have created throughout the next few weeks
@@ -15,7 +19,5 @@ Carly Warner
 
 
 
-
-Technologies Used section (use bullets)
 Sample code
-Author(s)
+
