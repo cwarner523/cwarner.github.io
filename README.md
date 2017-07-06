@@ -1,6 +1,6 @@
 # About Me Page 
 
-![Image of website] (./images/Screen Shot 2017-07-03 at 9.37.40 PM.png)
+<img src= "./images/Screen Shot 2017-07-03 at 9.37.40 PM.png">
 
 ### Technologies Used
 * HTML
